@@ -13,4 +13,4 @@ TODO:
 - Computational Graph
 
 References: https://www.sabinasz.net/deep-learning-from-scratch-i-computational-graphs/,
-https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8
+https://www.kdnuggets.com/2020/09/implementing-deep-learning-library-scratch-python.html
