@@ -11,7 +11,7 @@ class mse(loss_function):
         super().__init__()
         self.input = input
         self.target = target
-        self.mse = 1 / (target.size) * (input - target) ** 2
+        self.mse = 1 / (target.size) * ((input - target) ** 2).sum()
 
     def __loss__(self):
         return self.mse
